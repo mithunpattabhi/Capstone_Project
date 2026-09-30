@@ -16,6 +16,9 @@ ENV/
 *.mp4
 *.wav
 *.avi
+*.md
+*.docx
+*.pdf
 
 # Datasets and Scratch
 Dataset/
@@ -26,3 +29,4 @@ scratch_extract/
 .vscode/
 .idea/
 .DS_Store
+
