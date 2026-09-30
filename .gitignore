@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Weights & Models
+*.pt
+*.task
+
+# Media Files
+*.mp4
+*.wav
+*.avi
+
+# Datasets and Scratch
+Dataset/
+Datasets_Usage/
+scratch_extract/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
