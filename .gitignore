@@ -21,6 +21,8 @@ ENV/
 *.md
 *.docx
 *.pdf
+create_word.py
+create_pdf.py
 
 # Datasets and Scratch
 Dataset/
