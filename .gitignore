@@ -23,6 +23,7 @@ ENV/
 *.pdf
 create_word.py
 create_pdf.py
+generate_doc.py
 
 # Datasets and Scratch
 Dataset/
