@@ -16,6 +16,8 @@ ENV/
 *.mp4
 *.wav
 *.avi
+
+# Documents
 *.md
 *.docx
 *.pdf
@@ -29,4 +31,3 @@ scratch_extract/
 .vscode/
 .idea/
 .DS_Store
-
